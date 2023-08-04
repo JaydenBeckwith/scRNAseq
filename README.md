@@ -20,10 +20,6 @@ This step uses PCA and UMAP to reduce the dimensionality of the dataset.
 
 This step identifies clusters of cells based on their gene expression profiles.
     
-5. Differential Expression Analysis
-
-This step identifies genes that are differentially expressed between clusters.
-    
-6. Machine Learning classification
+5. Machine Learning classification
 
 Using an autoenconder, random forest and KNN classification techniques with CV and model evaluation 
